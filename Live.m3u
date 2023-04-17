@@ -11,14 +11,16 @@ http://live.aptvapp.com/live/douyu/71415
 http://live.aptvapp.com/live/douyu/3187637
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/650168b922e4aae868b29fec672c4fa9_big.jpg"  group-title="Live",旭旭宝宝
 http://live.aptvapp.com/live/douyu/99999
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/98e8953876184a21bb989f24041309f2_big.jpg"  group-title="Live",大龙猫
-http://live.aptvapp.com/live/douyu/1234
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c36c850e141846da95f5a781c416a2f1_big.jpg"  group-title="Live",超级小桀
 http://live.aptvapp.com/live/douyu/74751
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201604/24/ce51758ea8974c9d2128bf7d0c3be9e5_big.jpg"  group-title="Live",不死鸟
 http://live.aptvapp.com/live/douyu/610588
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201801/30/11/e4a5a931f99fe8b6224d0fe1a54311cc_big.jpg"  group-title="Live",太原杨树
 http://live.aptvapp.com/live/douyu/703747
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201910/98e8953876184a21bb989f24041309f2_big.jpg"  group-title="Live",大龙猫
+http://live.aptvapp.com/live/douyu/1234
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202103/43d8d2e1e8834007831d8e8e3bead897_big.jpg"  group-title="Live",大龙猫
+http://live.aptvapp.com/live/douyu/9418
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201807/dca3c7ece148ee546d611ed0815fbbd0_big.jpg"  group-title="Live",周二珂
 http://live.aptvapp.com/live/douyu/78622
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/5392f0755155478b933881cfdffccf0e_big.jpg"  group-title="Live",Minana
@@ -39,3 +41,5 @@ http://live.aptvapp.com/live/douyu/10722927
 http://live.aptvapp.com/live/douyu/10925867
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/72f2f35db9a4429484156170e15277b9_big.jpg"  group-title="Live",Yuki
 http://live.aptvapp.com/live/douyu/11006229
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/8f/75074c8616f80b99ed68eea7fb517d_180_135.jpg?1608746556&467142"  group-title="Live",卡莎
+http://live.aptvapp.com/live/huya/kasha233
